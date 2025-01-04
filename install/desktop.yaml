@@ -1,0 +1,2 @@
+- name: Install Desktop tools
+  hosts: localhost

@@ -1,0 +1,2 @@
+- import_playbook: install/terminal.yaml
+- import_playbook: install/desktop.yaml
